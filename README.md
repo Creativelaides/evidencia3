@@ -22,13 +22,13 @@ La aplicación consta de los siguientes componentes principales:
 
 Los modelos son representaciones de los objetos de usuario en la aplicación. El modelo principal es la clase `User`, que contiene atributos como el ID, nombre, apellido y dirección de un usuario. Estos modelos encapsulan la información de usuario y permiten su manipulación dentro de la aplicación de manera estructurada.
 
-[🔜 Descripción del Modelo de Usuario](src\models\README.md)
+[🔜 Descripción del Modelo de Usuario](/src/models/)
 
 ### Controladores (Package `controllers`)
 
 Los controladores actúan como intermediarios entre la lógica de la aplicación y la base de datos. La clase `UserController` contiene métodos para realizar operaciones CRUD en la tabla de usuarios de la base de datos. Estos controladores gestionan la creación, lectura, actualización y eliminación de usuarios en la base de datos, utilizando los modelos de usuario para representar y manipular la información.
 
-[🔜 Descripción del Controlador de Usuarios](src\controllers\README.md)
+[🔜 Descripción del Controlador de Usuarios](/src/controllers/)
 
 ## Funcionalidades
 

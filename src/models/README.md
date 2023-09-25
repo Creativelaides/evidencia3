@@ -1,7 +1,7 @@
 <!-- Reemplaza 'url_del_logo.png' con la URL o ruta de tu logo -->
 <div align="center"><img src="..\..\assets\sena_logo.png" width="80px">
 
-[🔙 Descripción de la Aplicación](src\controllers\README.md)
+[🔙 Descripción de la Aplicación](/)
 </div>
 
 # Descripción del Modelo de Usuario
